@@ -3,6 +3,9 @@
 ## Problema
 Melhorar o matching entre as vagas de emprego oferecidas na rede SINE - Sistema Nacional de Emprego e os trabalhadores que procuram a rede em busca de empregos.
 
+ ![Esboço do processo de *match*](img/match-sketch.png "Esboço do processo de *match*")
+
+
 ---  
 
 ## Motivação
@@ -29,18 +32,6 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
     - alternativa para enriquecimento dos dados
 - Lattes
     - alternativa para enriquecimento dos dados
----
-
-## Good for
-...
-
----
-
-## Built with
-- 
-- 
-- 
-- 
 
 ---
 
@@ -59,8 +50,6 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
 ```
     pip install -r requirements.txt
 ``` 
-5. Demonstration
-...  
  
 ---
 ## License
