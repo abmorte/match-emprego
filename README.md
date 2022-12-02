@@ -1,6 +1,6 @@
 # Match do emprego
 
-## Problema
+## Objetivo
 Melhorar o matching entre as vagas de emprego oferecidas na rede SINE - Sistema Nacional de Emprego e os trabalhadores que procuram a rede em busca de empregos.
 
  ![Esboço do processo de *match*](img/match-sketch.png "Esboço do processo de *match*")
@@ -16,12 +16,13 @@ e os dados dos currículos dos trabalhadores cadastrados no SINE não há um ín
 - Atualmente, apenas 2,6% das contratações do mercado são via SINE
 - Baixa efetividade: São necessários 45 atendimentos para cada contratação
 
-**Demais problemas**
-- falta de padronização quanto à descrição dos cargos e das competências dos trabalhadores.
+**Problemas**
+- falta de padronização quanto à descrição dos cargos e das competências dos trabalhadores
+- ausência de dados históricos do trabalhador sobre atividades realizadas em empregos anteriores
+- busca atual é inteiramente baseada no CBO - Código Brasileiro de Ocupações
 
 **Oportunidades**
-
-- Como poderíamos utilizar as competências sem necessidade de acoplamento com uma CBO  (Código Brasileiro de Ocupação) específico?
+- Basear busca em torno de CBO´s similares ao buscado pelo candidato (agrupamento fuzzy)
 
 **Fontes de dados**
 
